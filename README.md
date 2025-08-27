@@ -9,8 +9,7 @@
 
 
 
-# Github stats 📊:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimokrati&show_icons=true&locale=en&theme=dark&hide_border=false" alt="dimokrati" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimokrati&theme=dark&hide_border=false" alt="dimokrati" /></p>
 
