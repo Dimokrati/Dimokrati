@@ -1,4 +1,4 @@
-![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/a11a2554-7ce8-7054-20a3-8320881b80c8?t=1618902868781)
+
 <h1 align="center">Hi 👋, I'm Houssam Dimokrati</h1>
 <h3 align="center">A passionate data science student from Morocco</h3>
 
