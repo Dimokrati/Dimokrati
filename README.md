@@ -1,21 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Houssam Dimokrati</h1>
 <h3 align="center">A passionate data science student from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimokrati&label=Profile%20views&color=0e75b6&style=flat" alt="dimokrati" /> </p>
-<img align="right" alt="Coding" width="280" style="margin-right: 200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-- 🔭 I’m currently working on **Web3.0 project**
-
-- 🌱 I’m currently learning **solidity**
-
-- 📫 How to reach me **houssamdimokrati@gmail.com**
-
-- ⚡ Fun fact **i like skydiving**
-
 # Connect with me 💡:
 <p align="left">
-<a href="https://linkedin.com/in/houssam dimokrati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssam dimokrati" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hdimokrati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssam dimokrati" height="30" width="40" /></a>
 <a href="https://kaggle.com/houssamdimokrati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="houssamdimokrati" height="30" width="40" /></a>
 </p>
 
